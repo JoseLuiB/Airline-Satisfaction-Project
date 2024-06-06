@@ -1,0 +1,27 @@
+-Objetivos del Proyecto
+
+1.Identificar los factores que más influyen en la satisfacción del cliente.
+
+2.Determinar las diferencias en la satisfacción entre diferentes grupos de clientes (por ejemplo, clase de servicio, edad, género).
+
+3.Evaluar el impacto de diferentes servicios (como el servicio de comida, entretenimiento a bordo, y comodidad del asiento) en la satisfacción general.
+
+4.Desarrollar un modelo predictivo para clasificar si un cliente está satisfecho o insatisfecho basado en las características del vuelo y del pasajero.
+
+5.Proponer recomendaciones para mejorar la satisfacción del cliente basadas en los hallazgos del análisis.
+
+-Ruta del proyecto
+
+1.Recopilación de Datos: Acceder y descargar el dataset de satisfacción del cliente en aerolíneas de Kaggle.
+
+2.Limpieza de Datos: Revisar y preparar los datos para el análisis.
+
+3.Exploración de Datos (EDA): Realizar un análisis exploratorio para entender las principales características y distribuciones de los datos.
+
+4.Análisis y Modelado: Identificar patrones y relaciones clave, y desarrollar un modelo predictivo.
+
+5.Visualización de Datos: Crear visualizaciones que representen los hallazgos de manera clara y efectiva.
+
+6.Interpretación y Comunicación de Resultados: Redactar un informe detallado y preparar una presentación para comunicar los resultados y recomendaciones.
+
+7.Documentación y Presentación del Proyecto: Documentar todo el proceso y preparar una presentación final del proyecto.
