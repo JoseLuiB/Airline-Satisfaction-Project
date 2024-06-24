@@ -1,27 +1,33 @@
--Objetivos del Proyecto
+Definición del Proyecto
 
-1.Identificar los factores que más influyen en la satisfacción del cliente.
+Identificación del Problema:
+Los usuarios de la aerolínea han reportado diversas experiencias en sus viajes. La aerolínea necesita entender mejor los factores que influyen en la satisfacción del cliente para mejorar sus servicios.
 
-2.Determinar las diferencias en la satisfacción entre diferentes grupos de clientes (por ejemplo, clase de servicio, edad, género).
+Objetivo del Proyecto:
+Identificar los principales factores que afectan la satisfacción del cliente y proporcionar recomendaciones para mejorar la experiencia del usuario.
 
-3.Evaluar el impacto de diferentes servicios (como el servicio de comida, entretenimiento a bordo, y comodidad del asiento) en la satisfacción general.
+Preguntas de Investigación:
 
-4.Desarrollar un modelo predictivo para clasificar si un cliente está satisfecho o insatisfecho basado en las características del vuelo y del pasajero.
+1-¿Cuál es el nivel de satisfacción general de los usuarios de la aerolínea?
+    
+2-¿Qué aspectos del servicio tienen el mayor impacto en la satisfacción del cliente?
 
-5.Proponer recomendaciones para mejorar la satisfacción del cliente basadas en los hallazgos del análisis.
+3-¿Existen diferencias significativas en la satisfacción entre diferentes grupos demográficos?
 
--Ruta del proyecto
+Entregables del Proyecto:
 
-1.Recopilación de Datos: Acceder y descargar el dataset de satisfacción del cliente en aerolíneas de Kaggle.
+1-Informe detallado con los hallazgos del análisis.
 
-2.Limpieza de Datos: Revisar y preparar los datos para el análisis.
+2-Visualizaciones de datos que muestren las tendencias y patrones encontrados.
 
-3.Exploración de Datos (EDA): Realizar un análisis exploratorio para entender las principales características y distribuciones de los datos.
+3-Recomendaciones basadas en los resultados del análisis.
 
-4.Análisis y Modelado: Identificar patrones y relaciones clave, y desarrollar un modelo predictivo.
+Alcance del Proyecto:
+Análisis de satisfacción del cliente, segmentación de usuarios por demografía.
 
-5.Visualización de Datos: Crear visualizaciones que representen los hallazgos de manera clara y efectiva.
+Recursos Necesarios:
 
-6.Interpretación y Comunicación de Resultados: Redactar un informe detallado y preparar una presentación para comunicar los resultados y recomendaciones.
+1.Datos de la encuesta de usuarios de la aerolínea.
+    
+2.Herramientas: Python, Jupyter Notebook, bibliotecas de análisis de datos (pandas, numpy), bibliotecas de visualización (matplotlib, seaborn), y software de presentación (PowerBI).
 
-7.Documentación y Presentación del Proyecto: Documentar todo el proceso y preparar una presentación final del proyecto.
