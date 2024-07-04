@@ -1,0 +1,80 @@
+Paso 1: Definición del Proyecto y Objetivos
+Propósito Principal del Proyecto
+
+    Identificar los factores clave que influyen en la satisfacción del cliente.
+    Segmentar a los clientes según su nivel de satisfacción.
+    Detectar áreas de mejora en el servicio de la aerolínea.
+    Proporcionar recomendaciones basadas en el análisis de datos.
+
+Preguntas Específicas
+
+    ¿Cuáles son las variables que más afectan la satisfacción del cliente?
+    ¿Existen diferencias significativas en la satisfacción entre diferentes grupos demográficos?
+    ¿Cuáles son los aspectos del servicio que más contribuyen a la satisfacción o insatisfacción?
+    ¿Qué patrones emergen del análisis de los datos de la encuesta?
+
+Objetivos Secundarios
+
+Para apoyar nuestros objetivos principales, definiremos algunos objetivos secundarios:
+
+    Evaluar la distribución de la satisfacción del cliente.
+    Analizar la relación entre diferentes variables y la satisfacción del cliente.
+    Identificar perfiles de clientes que presentan niveles de satisfacción distintos.
+    Proponer mejoras específicas para los aspectos del servicio que muestran mayor insatisfacción.
+
+Planificación del Proyecto
+Etapas del Proyecto
+
+    Definición del Proyecto y Objetivos: Ya completado.
+    Recolección y Comprensión de los Datos: Reunir y comprender los datos de la encuesta.
+    Limpieza de Datos: Asegurarse de que los datos sean consistentes y estén listos para el análisis.
+    Análisis Exploratorio de Datos (EDA): Realizar visualizaciones y análisis preliminares.
+    Análisis Estadístico y Modelado: Aplicar técnicas estadísticas y construir modelos predictivos.
+    Visualización de Datos: Crear gráficos y tablas para comunicar los hallazgos.
+    Interpretación de Resultados y Conclusiones: Extraer conclusiones y formular recomendaciones.
+    Documentación y Presentación: Documentar el proceso y preparar la presentación final.
+
+Cómo Lograrlo
+
+    Recolección y Comprensión de los Datos:
+        Obtén el conjunto de datos de la encuesta de satisfacción de clientes.
+        Explora los datos para familiarizarte con su estructura y contenido.
+
+    Limpieza de Datos:
+        Maneja los valores ausentes y elimina duplicados.
+        Corrige cualquier inconsistencia en los datos.
+
+    Análisis Exploratorio de Datos (EDA):
+        Visualiza la distribución de la satisfacción del cliente.
+        Analiza las correlaciones entre las variables.
+        Identifica patrones y outliers.
+
+    Análisis Estadístico y Modelado:
+        Realiza pruebas de hipótesis para identificar diferencias significativas entre grupos.
+        Construye modelos predictivos para determinar los factores que afectan la satisfacción del cliente.
+
+    Visualización de Datos:
+        Crea gráficos y tablas que resuman los hallazgos clave.
+        Utiliza herramientas de visualización avanzadas si es necesario.
+
+    Interpretación de Resultados y Conclusiones:
+        Sintetiza los hallazgos clave y extrae conclusiones.
+        Proporciona recomendaciones basadas en los datos analizados.
+
+    Documentación y Presentación:
+        Documenta todo el proceso, decisiones y hallazgos.
+        Prepara una presentación clara y concisa para comunicar los resultados.
+
+Definición Detallada de Preguntas Específicas
+
+    ¿Cuáles son las variables que más afectan la satisfacción del cliente?
+        Identificar las variables (como calidad del servicio, puntualidad, comodidad, etc.) y su impacto en la satisfacción general.
+
+    ¿Existen diferencias significativas en la satisfacción entre diferentes grupos demográficos?
+        Analizar si hay diferencias en la satisfacción según la edad, género, frecuencia de vuelo, etc.
+
+    ¿Cuáles son los aspectos del servicio que más contribuyen a la satisfacción o insatisfacción?
+        Determinar qué aspectos del servicio (atención al cliente, limpieza, entretenimiento a bordo, etc.) son más valorados o criticados por los clientes.
+
+    ¿Qué patrones emergen del análisis de los datos de la encuesta?
+        Identificar patrones generales en los datos, como tendencias de satisfacción según el tiempo del año, rutas específicas, etc.
