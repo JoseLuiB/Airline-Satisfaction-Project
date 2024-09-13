@@ -43,11 +43,11 @@ Cómo Lograrlo
     Limpieza de Datos:
         Maneja los valores ausentes y elimina duplicados.
         Corrige cualquier inconsistencia en los datos.
+	Tratamiento de outliers.
 
     Análisis Exploratorio de Datos (EDA):
         Visualiza la distribución de la satisfacción del cliente.
         Analiza las correlaciones entre las variables.
-        Identifica patrones y outliers.
 
     Análisis Estadístico y Modelado:
         Realiza pruebas de hipótesis para identificar diferencias significativas entre grupos.

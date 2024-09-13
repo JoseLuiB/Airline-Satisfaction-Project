@@ -35,8 +35,8 @@ Este proyecto tiene como objetivo analizar una encuesta de satisfacción de clie
 ## Uso del Proyecto
 
 1. **Recolección y Comprensión de los Datos**: Carga y exploración del conjunto de datos.
-2. **Limpieza de Datos**: Manejo de valores ausentes, eliminación de duplicados y corrección de inconsistencias.
-3. **Análisis Exploratorio de Datos (EDA)**: Visualización de distribuciones, análisis de correlaciones y detección de outliers.
+2. **Limpieza de Datos**: Manejo de valores ausentes, eliminación de duplicados, corrección de inconsistencias y detección de outliers.
+3. **Análisis Exploratorio de Datos (EDA)**: Visualización de distribuciones, análisis de correlaciones.
 4. **Análisis Estadístico y Modelado**: Pruebas de hipótesis y construcción de modelos predictivos.
 5. **Visualización de Datos**: Creación de gráficos y tablas para comunicar hallazgos.
 6. **Interpretación de Resultados y Conclusiones**: Síntesis de hallazgos y formulación de recomendaciones.
